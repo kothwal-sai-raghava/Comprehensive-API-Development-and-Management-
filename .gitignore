@@ -1,0 +1,16 @@
+# Don't track environment variables
+.env
+
+# Don't track dependencies
+node_modules/
+
+# Optional log files
+*.log
+logs/
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore IDE-specific files (optional)
+.vscode/
+.idea/
